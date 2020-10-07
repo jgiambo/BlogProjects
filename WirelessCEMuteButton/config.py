@@ -1,0 +1,5 @@
+endpoint_ip_address = "IPADDRESS"
+endpoint_username = "upython"
+endpoint_password = "PASSWORD"
+wifi_ssid = "SSID"
+wifi_password = "PASSWORD"
